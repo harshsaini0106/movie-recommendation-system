@@ -10,7 +10,7 @@ This project uses **Natural Language Processing (NLP)** and **Cosine Similarity*
 
 Click here to try the app:
 
-👉 **[Movie Recommendation System](https://movie-recommendation-system-kqlaynvzqgwijappnrgt8yt.streamlit.app/)**
+👉 **[Movie Recommendation System](https://movie-recommendation-system-ae4kdevszqyd94l2bwogu8.streamlit.app/)**
 
 # 🚀 Features
 
