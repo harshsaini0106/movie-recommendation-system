@@ -1,6 +1,12 @@
 streamlit
 pandas
 scikit-learn
+<<<<<<< HEAD
 nltk
 requests
 numpy
+=======
+requests
+numpy
+nltk
+>>>>>>> 110d015999e5cc3744a5cbbefcf45ca8433fa3a5
